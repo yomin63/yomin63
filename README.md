@@ -13,7 +13,7 @@
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### 📊 GitHub Stats
-![Yohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yohan123&show_icons=true&theme=tokyonight)
+![Yohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yohan63&show_icons=true&theme=tokyonight)
 
 ### 🧠 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohan63&layout=compact&theme=tokyonight)
