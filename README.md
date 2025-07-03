@@ -3,7 +3,7 @@
 - 🌱 저는 지금 **AI 엔지니어링**을 배우고있어요
 - 👨‍💻 저의 **프로젝트**를 확인해주세요 [https://github.com/yomin63](https://github.com/yomin63)
 - 📫 : **rladygks3070@naver.com**
-- 📝 성장 일지는 여기서! [my tech blog](https://velog.io/@yohan63)
+- 📝 성장 일지는 여기서! [blog](https://velog.io/@yohan63)
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
