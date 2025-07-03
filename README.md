@@ -16,7 +16,7 @@
 ![Yohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yohan123&show_icons=true&theme=tokyonight)
 
 ### 🧠 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohan123&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohan63&layout=compact&theme=tokyonight)
 
 ---
 
